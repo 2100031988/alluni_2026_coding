@@ -1,4 +1,4 @@
-# alluni_2026_coding 🏆
+# alluni_2026_coding_competition
 
 My submissions from the **AllUni 2026 Coding Competition**.
 
@@ -12,4 +12,4 @@ Competed in my first ever university coding competition, solved **3 coding quest
 - `sodium_intake.py` - Competition solution
 
 ## Result
-✅ Solved 3/3 questions — excited for the next one! 🚀
+Excited for the next one! 🚀
